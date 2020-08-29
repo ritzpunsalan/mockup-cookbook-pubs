@@ -1,0 +1,43 @@
+intructions:
+    this is the requirements to make the site:
+
+requirements:
+    Strong working knowledge of JavaScript (ES.Next, ES5, jQuery), HTML (semantic and accessible), CSS, SVG, and JSON.
+
+    Lead test driven development ReactJS and Redux
+Help the backend developer in developing features in Django Rest Framework (DRF)
+Work with visual designers to make a compelling looking front end using html/css/javascript
+Build public facing applications that are accessible
+Work with the user research team to build an inclusive and human centered design experience
+Be an active member in in daily scrum meetings, bi-weekly sprint plannings, and quarterly milestone plannings, and as-needed pairing sessions
+    source linK: https://www.indeedjobs.com/raft-c8bb7a6/jobs/8d004c10a8f55edf8c9c
+        
+        Understand the difference in static and dynamic languages
+    Prefer API-first development
+    Don't mind learning new technologies to implement user facing features
+    Prefer command line tools - know ZSH and have a preference for your dot files
+    Have experience building public facing tools/applications/sites
+    Comfortable communicating your technical thought process to non-technical team members
+    Can work independently given a user story and a definition of done
+    Love to demo your work to the team
+    Prefer being user focused as opposed to being technology focused.
+
+    Experiences & Skills:
+3+ Years PHP programming
+Strong Javascript
+MySQL, relational database, optimization, and design architecture
+NoSQL/Memcache
+NodeJS/nginx
+Follows best practices and clean code
+Familiar with LAMP stack
+Fundamental understanding of modern Web Services APIs/REST
+Version control systems (GIT)
+Solid HTML/CSS skills
+Recognizing security issues (web vulnerabilities, cross-site scripting, and SQL injections)
+    source link: https://losangeles.craigslist.org/sfv/sof/d/woodland-hills-php-web-developer/7164069382.html
+
+
+
+
+
+
