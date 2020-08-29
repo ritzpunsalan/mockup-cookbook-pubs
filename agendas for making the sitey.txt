@@ -1,0 +1,4 @@
+this is a mock up site. so here are a list of things needed to be done to make web dev happening for me.
+
+agenda:
+    make a top menu 
