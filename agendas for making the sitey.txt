@@ -2,3 +2,11 @@ this is a mock up site. so here are a list of things needed to be done to make w
 
 agenda:
     make a top menu 
+    make npm module happening
+    make a collum site.
+        top row for menu.
+        3 collum.
+            2 sides, 1 wide mid.
+        2 bottom row for sub links.
+            1 for sub links.
+            1 for another sub links.
