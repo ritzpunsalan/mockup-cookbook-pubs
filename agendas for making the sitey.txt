@@ -2,7 +2,10 @@ this is a mock up site. so here are a list of things needed to be done to make w
 
 agenda:
     make a top menu 
-    make npm module happening
+        source link:
+    https://css-tricks.com/responsive-menu-concepts/
+    https://medium.com/level-up-web/20-responsive-navigation-solutions-examples-codes-21644390afeb
+    ++ make npm module happening
     make a collum site.
         top row for menu.
         3 collum.
@@ -10,3 +13,6 @@ agenda:
         2 bottom row for sub links.
             1 for sub links.
             1 for another sub links.
+        source link:
+    https://css-tricks.com/guide-responsive-friendly-css-columns/
+    make forum code done from scratch.

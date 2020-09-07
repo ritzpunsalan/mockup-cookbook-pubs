@@ -1,0 +1,17 @@
+here are all the cmds for npm
+
+issues:
+ git pull origin master
+ git push origin master
+
+npm i express
+    gets the node modules
+        source link:
+    https://www.youtube.com/watch?v=teDVlOjOCT0&ab_channel=TraversyMedia
+
+ls `npm root -g`
+    install all globals
+npm list -g
+    show list
+source link:
+    https://stackoverflow.com/questions/17937960/how-to-list-npm-user-installed-packages

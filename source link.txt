@@ -9,6 +9,3 @@ Existing works sample:
 git remote add origin https://github.com/ritzpunsalan/mockup-cookbook-pubs.git
 git push -f origin master
 
-issues:
- git pull origin master
- git push origin master
