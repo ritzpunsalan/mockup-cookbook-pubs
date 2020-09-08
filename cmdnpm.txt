@@ -10,8 +10,11 @@ npm i express
     https://www.youtube.com/watch?v=teDVlOjOCT0&ab_channel=TraversyMedia
 
 ls `npm root -g`
+npm list -g --depth=0
     install all globals
+npm update -g
+    update installations
 npm list -g
     show list
-source link:
+        source link:
     https://stackoverflow.com/questions/17937960/how-to-list-npm-user-installed-packages

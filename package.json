@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/ritzpunsalan/mockup-cookbook-pubs#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "less": "^3.12.2",
+    "react": "^16.13.1",
+    "rest": "^2.0.0",
+    "vue": "^2.6.12"
   }
 }

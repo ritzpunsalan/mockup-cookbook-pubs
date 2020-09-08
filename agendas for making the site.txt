@@ -6,6 +6,17 @@ agenda:
     https://css-tricks.com/responsive-menu-concepts/
     https://medium.com/level-up-web/20-responsive-navigation-solutions-examples-codes-21644390afeb
     ++ make npm module happening
+    ++ reinstall all the npm app needed.
+    ++ install all these
+        ++ vue
+        ++ react
+        ++ rest
+        ++ less
+        ++ sass
+        ++ netlify
+        ++ ruby
+        ++ typescript
+        ++ redux
     make a collum site.
         top row for menu.
         3 collum.
