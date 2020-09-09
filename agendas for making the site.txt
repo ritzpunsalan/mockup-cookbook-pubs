@@ -27,3 +27,6 @@ agenda:
         source link:
     https://css-tricks.com/guide-responsive-friendly-css-columns/
     make forum code done from scratch.
+        source link:
+    https://www.youtube.com/watch?v=mI4mRSsXMy0&t=44s&ab_channel=GeekyNet
+    https://www.youtube.com/watch?v=ZoftWDy-r3c&ab_channel=gmgymnast
